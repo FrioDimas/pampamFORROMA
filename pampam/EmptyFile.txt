@@ -1,0 +1,8 @@
+-1 --> Invalid expression: Not enough operands.
+2+2 --> 4
+3-1 --> 2
+2222+1555/33+44*2 --> 2357,121212121212
+1/0 --> Exception. Divide by zero
+1+x --> Exception. Wrong input
+y/0 --> Exception. Wrong input
+9129129129/3727273*321123-21323132112+23112213 --> -20513500281,76459
